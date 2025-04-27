@@ -47,7 +47,7 @@ Admin can do the following activities:
 
 
 
-A few Questions have been provided to solve, Try to frame more questions if required.
+A few Questions have been provided to solve.
 
 
 
